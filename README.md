@@ -1,6 +1,6 @@
 # TicketTok
 
-![TicketTok](assets/marketing/poster.png)
+<img src="assets/marketing/poster.png" alt="TicketTok" height="600">
 
 Auto-updating status tracking dashboard for multitasking between multiple Claude Code instances via tmux.
 
